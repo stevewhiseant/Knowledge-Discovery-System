@@ -26,7 +26,7 @@ KDS identifies all execution paths, including branches, loops, jumps, interrupts
 ### Step 3: Data Flow Reconstruction
 The system traces data movement across registers, memory locations, buffers, and I/O boundaries. This step identifies:
 
-- Bulet Data stores
+- Data stores
 
 - Data transformations
 
