@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" alt="KDS Logo" width="200"/>
+</p>
 
 # Knowledge Discovery System (KDS)  
 ### Deterministic Legacy System Reconstruction  
