@@ -11,11 +11,11 @@ Modernization efforts fail not because teams lack intelligence or resources, but
 
 - Bullet Too much guesswork
 
-- Bullet Too much tribal knowledge
+- Too much tribal knowledge
 
-- Bullet Too much nondeterminism
+- Too much nondeterminism
 
-- Bullet Too many “interpretations” of what legacy code might mean
+- Too many “interpretations” of what legacy code might mean
 
 This is unacceptable for systems that control aircraft, medical devices, power grids, and national infrastructure.
 
@@ -40,17 +40,17 @@ KDS is a **deterministic reconstruction engine.**
 
 It takes raw assembly — the most unforgiving, literal, unambiguous representation of system behavior — and transforms it into:
 
-- Bullet Data Flow Diagrams
+- Data Flow Diagrams
 
-- Bullet System Requirements Specifications
+- System Requirements Specifications
 
-- Bullet Software Design Documents
+- Software Design Documents
 
-- Bullet Traceability matrices
+- Traceability matrices
 
-- Bullet Test plans
+- Test plans
 
-- Bullet Certification‑grade artifacts
+- Certification‑grade artifacts
 
 Every output is traceable.
 Every transformation is auditable.
@@ -85,11 +85,11 @@ without fear, without guesswork, and without losing the truth encoded in their l
 
 KDS is the bridge between:
 
-- Bullet What was built
+- What was built
 
-- Bullet What is needed
+- What is needed
 
-- Bullet And what must be certified
+- And what must be certified
 
 This is not a convenience.
 This is a necessity.
@@ -98,15 +98,15 @@ This is a necessity.
 
 I envision a world where:
 
-- Bullet No system is “too old” to understand
+- No system is “too old” to understand
 
-- Bullet No codebase is “too risky” to touch
+- No codebase is “too risky” to touch
 
-- Bullet No modernization effort collapses under uncertainty
+- No modernization effort collapses under uncertainty
 
-- Bullet No certification authority questions the lineage of documentation
+- No certification authority questions the lineage of documentation
 
-- Bullet No organization is held hostage by the past
+- No organization is held hostage by the past
 
 KDS is the foundation of that world.
 
@@ -114,17 +114,17 @@ KDS is the foundation of that world.
 
 KDS will always be:
 
-- Bullet Deterministic
+- Deterministic
 
-- Bullet Traceable
+- Traceable
 
-- Bullet Auditable
+- Auditable
 
-- Bullet Engineering‑grade
+- Engineering‑grade
 
-- Bullet Certification‑aligned
+- Certification‑aligned
 
-- Bullet Built for real systems, not demos
+- Built for real systems, not demos
 
 I do not build toys.
 I do not build prototypes.
@@ -133,15 +133,15 @@ I build infrastructure.
 ## 8. The Invitation
 If you believe that modernization should be:
 
-- Bullet Scientific
+- Scientific
 
-- Bullet Repeatable
+- Repeatable
 
-- Bullet Defensible
+- Defensible
 
-- Bullet Transparent
+- Transparent
 
-- Bullet And worthy of the systems it supports
+- And worthy of the systems it supports
 
 Then you understand why KDS exists.
 
