@@ -1,9 +1,9 @@
 # KDS Capabilities Statement
 ## Deterministic Modernization for Mission‑Critical Systems
-### Core Capability
+## Core Capability
 **KDS (Knowledge Discovery System)** is a deterministic reconstruction engine that transforms raw assembly code into complete, certification‑grade engineering documentation. It eliminates ambiguity, tribal knowledge, and nondeterministic interpretation from legacy system modernization. KDS provides a fully traceable, auditable, and defensible pipeline from low‑level machine behavior to high‑level system specifications.
 
-### Primary Competencies
+## Primary Competencies
 **1. Deterministic Legacy System Reconstruction***
 - Bullet Converts raw assembly into structured, human‑readable engineering artifacts
 
@@ -42,12 +42,12 @@
 
 - Bullet Reduces modernization risk, cost, and schedule uncertainty
 
-### Differentiators
-## Deterministic, Not Probabilistic
+## Differentiators
+### Deterministic, Not Probabilistic
 KDS does not guess, infer, or hallucinate.
 Every output is derived directly from the source code and is fully traceable.
 
-### Certification‑Aligned
+## Certification‑Aligned
 Outputs are structured to meet the expectations of:
 
 - Bullet FAA / EASA (DO‑178C, DO‑254)
