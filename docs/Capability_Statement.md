@@ -88,8 +88,11 @@ KDS captures the truth encoded in the system itself — not in the memories of l
 
 ### Corporate Information
 **Organization:** KDS (Knowledge Discovery System)
+
 **Founder:** Steve Whiseant
+
 **Core Mission:** Deterministic modernization of mission‑critical legacy systems
+
 **Focus Areas:** Aerospace, medical, defense, industrial, federal modernization
 
 ### Summary
