@@ -26,28 +26,28 @@ KDS identifies all execution paths, including branches, loops, jumps, interrupts
 ### Step 3: Data Flow Reconstruction
 The system traces data movement across registers, memory locations, buffers, and I/O boundaries. This step identifies:
 
-- Bullet Data stores
+- Bulet Data stores
 
-- Bullet Data transformations
+- Data transformations
 
-- Bullet External interfaces
+- External interfaces
 
-- Bullet Implicit dependencies
+- Implicit dependencies
 
-- Bullet Hidden coupling
+- Hidden coupling
 
 This forms the foundation for Yourdon & DeMarco Data Flow Diagrams.
 
 ### Step 4: Functional Boundary Discovery
 KDS isolates functional units based on actual behavior, not naming conventions or legacy documentation. Each functional boundary is validated through:
 
-- Bullet Instruction patterns
+- Instruction patterns
 
-- Bullet Data dependencies
+- Data dependencies
 
-- Bullet Control flow segmentation
+- Control flow segmentation
 
-- Bullet Interface interactions
+- Interface interactions
 
 This ensures that the system’s true architecture is revealed.
 
@@ -57,34 +57,34 @@ KDS converts low‑level operations into high‑level functional descriptions. T
 ### Step 6: Documentation Synthesis
 Using the reconstructed behavioral model, KDS generates:
 
-- Bullet **Data Flow Diagrams (DFD)**
+- **Data Flow Diagrams (DFD)**
 
-- Bullet **System Requirements Specification (SRS)**
+- **System Requirements Specification (SRS)**
 
-- Bullet **Software Design Document (SDD)**
+- **Software Design Document (SDD)**
 
-- Bullet **State diagrams**
+- **State diagrams**
 
-- Bullet **Memory maps**
+- **Memory maps**
 
-- Bullet **Traceability matrices**
+- **Traceability matrices**
 
-- Bullet **Verification matrices**
+- **Verification matrices**
 
-- Bullet **Test plans and procedures**
+- **Test plans and procedures**
 
 Each artifact is internally consistent and cross‑linked to its source.
 
 ### Step 7: Verification & Integrity Checks
 Before finalization, KDS performs:
 
-- Bullet Completeness checks
+- Completeness checks
 
-- Bullet Boundary validation
+- Boundary validation
 
-- Bullet Cross‑artifact consistency checks
+- Cross‑artifact consistency checks
 
-- Bullet Behavioral fidelity verification
+- Behavioral fidelity verification
 
 This ensures that the documentation set is not only accurate but certifiable.
 
