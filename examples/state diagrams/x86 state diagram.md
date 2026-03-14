@@ -1,7 +1,7 @@
 ## 1. STATE DIAGRAM — s8 (Dispatcher)
 Controls which rendering path is taken based on mode d063a2
 
-Code
+ Code
                    +----------------+
                    |   START (s8)   |
                    +--------+-------+
