@@ -14,7 +14,7 @@
 - Produces outputs aligned with aerospace, medical, and defense documentation standards
 
 **2. Automated Engineering Documentation Generation**
-- Bullet **Data Flow Diagrams (DFD)** using Yourdon & DeMarco methodology
+- **Data Flow Diagrams (DFD)** using Yourdon & DeMarco methodology
 
 - **System Requirements Specifications (SRS)** with full traceability
 
